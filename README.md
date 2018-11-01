@@ -1,3 +1,5 @@
+#原文链接https://github.com/HT524/500LineorLess_CN
+
 # 500LineorLess_CN
 500 line or less 中文翻译计划。
 
